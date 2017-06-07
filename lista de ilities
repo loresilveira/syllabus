@@ -7,8 +7,8 @@ Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 
 accessibility 
 accountability
-accuracy - daniel kiluange, felipe baruch, Litiano, (Everton, Marcos)
-adaptability - Litiano, (Everton, Marcos)
+accuracy - daniel kiluange, felipe baruch, Litiano, (Everton, Marcos), (Fábio, Lorena)
+adaptability - Litiano, (Everton, Marcos), (Fábio, Lorena)
 administrability - Weslley e Roberto
 affordability - Kenia
 agility - daniel kiluange, felipe baruch, Litiano, Vitor Marcelino
@@ -38,17 +38,17 @@ fault-tolerance - Litiano, (Everton, Marcos)
 fidelity
 flexibility - daniel kiluange, felipe baruch
 inspectability
-installability 
+installability - (Fábio, Lorena)
 integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
-interoperability - Litiano, (Everton, Marcos)
+interoperability - Litiano, (Everton, Marcos), (Fábio, Lorena)
 learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
-maintainability - (Everton, Marcos), Vitor Marcelino
+maintainability - (Everton, Marcos), Vitor Marcelino, (Fábio, Lorena)
 manageability
 mobility - Weslley e Roberto, rafael
 modifiability
 modularity - Kenia - (Mário Júnior, Juliana Nascimento)
-operability - daniel kiluange, felipe baruch,  Litiano
+operability - daniel kiluange, felipe baruch,  Litiano, (Fábio, Lorena)
 orthogonality
 portability - Litiano, (Mário Júnior, Juliana Nascimento), rafael
 precision - Weslley e Roberto, rafael
@@ -56,7 +56,7 @@ predictability
 process capabilities
 producibility
 provability
-recoverability - Litiano, (Everton, Marcos)
+recoverability - Litiano, (Everton, Marcos), (Fábio, Lorena)
 relevance - Weslley e Roberto
 repairability
 repeatability
@@ -71,7 +71,7 @@ self-sustainability
 serviceability (a.k.a. supportability)
 securability - daniel kiluange, felipe baruch, Vitor Marcelino
 simplicity - Weslley e Roberto, Vitor Marcelino
-stability - (Everton, Marcos)
+stability - (Everton, Marcos), (Fábio, Lorena)
 standards compliance
 survivability
 sustainability
@@ -81,7 +81,7 @@ timeliness
 traceability
 transparency - Weslley e Roberto
 ubiquity
-understandability
+understandability - (Fábio, Lorena)
 upgradability - Vitor Marcelino
 usability - Kenia, (Mário Júnior, Juliana Nascimento), Litiano, rafael
 verifiability
